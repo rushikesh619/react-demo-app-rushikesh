@@ -131,8 +131,8 @@ class Todo extends React.Component {
                     </Typography>
                     <Typography variant="h5" align='center' gutterBottom >
                         GitHub Repositiry :-
-                        <Link href="http://rushikesh619.github.io/" >
-                            http://rushikesh619.github.io/
+                        <Link href="https://github.com/rushikesh619/react-demo-app-rushikesh" >
+                            https://github.com/rushikesh619/react-demo-app-rushikesh
                         </Link>
                     </Typography>
                 </Container>
