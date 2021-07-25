@@ -47,9 +47,9 @@ const styles = {
 
 const columns = [
     { title: 'Avatar', field: 'avatar', render: rowData => <img src={rowData.avatar} style={{ width: 40, borderRadius: '50%' }} /> },
-    { title: 'Name', field: 'first_name' },
-    { title: 'Name', field: 'last_name' },
-    { title: 'Name', field: 'email' }
+    { title: 'First Name', field: 'first_name' },
+    { title: 'Last Name', field: 'last_name' },
+    { title: 'Email', field: 'email' }
 ]
 
 class ApiCall extends React.Component {
